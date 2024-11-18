@@ -1,0 +1,7 @@
+1. nói sơ qua về bài lab
+2. nói về các lệnh sử dụng.
+3. demo với ecb (demo để thấy rõ được sự giống nhau giữa các khối C vì có P giống nhau).
+4. demo với cbc (demo cho thấy được sự thay đổi của các C dù cho P có giống nhau).
+4. demo quy tắc thêm padding trong chế độ mã hóa khối.
+5. demo các tấn công padding oracle attack 
+6. demo với 
